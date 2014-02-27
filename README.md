@@ -2,4 +2,5 @@ cs241honor
 ==========
 
 cs241 honor section
-    way to big fortune
+Hey, we are doing a project right now and hopefully this App will be an awesome experience 
+for our users.
